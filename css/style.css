@@ -1,23 +1,16 @@
-body {
-  background pink;
+*{
+    padding: 10px;
+    margin: 0px;
+    box-sizing: border-box;
 }
-
-h1 {
-  color: blue;
-  fontsize: 3em; 
+h2{
+    color: red;
 }
-
-h2 {
-  color: green;
-  font-weight: normal
-  font-style: italic;
+#title {
+    text-align: center;
+    background-color: aquamarine;
+    border: 3px solid black;
 }
-
-.completed {
-  font-family: 12px;
-}
-
-#tasks .completed {
-  backgound: #ccc;
-  text-decoration: underline;
+h2{
+    font size: 40px;
 }
